@@ -44,7 +44,7 @@ public:
 	std::vector<Particle> particles;
 
 	// Constructor
-	// @param num_particles Number of particles
+	// @param M Number of particles
 	ParticleFilter() : num_particles(0), is_initialized(false) {}
 
 	// Destructor
